@@ -1,85 +1,76 @@
-Mission
-=======
+# Constitution & Bylaws
 
-We, the Red Emma’s Bookstore\*Coffeehouse, a worker-owned and operated
-bookstore and coffeehouse dedicated to providing resources for education
-and activism, are committed to working to provide ideas, inspiration and
-entertainment for the critical and the curious reader. We offer the
-community a distinctive range of books and printed material as well as
-internet access, and offer a progressive social forum for people with
-diverse interests and backgrounds. Red Emma’s will provide an outlet for
-independent art and culture. Red Emma’s will also provide customers with
-a unique and comfortable environment for enjoying great coffee,
-specialty beverages, and bakery items at a reasonable price. Red Emma’s
-is a non-hierarchical collective that seeks to provide a model for
-organizations we would like to see in the society we envision.
+## ARTICLE I: Name, Purpose, Definitions, Core Values, Functions & Objectives
 
-Functions and Objectives
-========================
+### Section 1: Name
+The name of this corporation is The Ambrielan Foundation.
 
-1.  The Collective shall provide the public with educational and
-    informational materials.
-2.  Red Emma’s will make available socially responsible food and
-    beverages.
-3.  Without limiting in any way its objectives, purposes, or powers,
+### Section 2: Purpose
+The Ambrielan Foundation will provide tools for organizers and artists working to enrich the Seattle community, including: offices, housing, equipment, food, and a venue for events. By providing these necessary resources to people active in bettering our community, the Seattle population as a whole will benefit. This corporation will achieve its purpose by purchasing and maintaining a multi-use building and equipment, which will be paid for with membership fees, charitable events, grants, and donations.
+
+### Section 3: Definitions
+
+1.  The Ambrielan Foundation (hereafter referred to as Project Ambri or AF): the legal organization registered as a public benefit not for profit corporation in Washington State.
+2.  Collective: the group of people who have become members of Project Ambri.
+4.  Collective member: A member of Project Ambri.
+5.  Prospective collective member: A volunteer or active member within the community whom the Collective is considering as a potential future collective member. 
+6.  Attendance: physical presence at a meeting, or participation via phone or other audio/video/live-chat channel.
+
+### Section 4: Core Values
+1. Resisting gentrification
+2. Providing a safe space for Queer/trans, people of color, immigrants, and other marginalized groups
+3. feminism/ anarchism
+4. collective liberation
+5. collective empowerment
+6. embracing change
+The AF Promise to the community is that each action taken by Project Ambri, through programs or administration, either by a paid staff person, member, or volunteer, will strive to be in full alignment with the AF purpose and core values.
+
+### Section 5: Functions and Objectives
+1.  Project Ambri will purchase a building to be divided for multiple uses, including: 
+	A.  office space for organizers & organizations in the Seattle community whose values are in line with the values of AF.
+	B.  storage for tools & equipment to be shared by members of the AF collective, for use in line with AF's values.
+	C.  a venue & gallery space for hosting events and fundraisers in line with AF's values.
+	D.  Multiple apartments for select members of the AF collective to live on site, operated by an affiliate housing co-operative.
+	
+2.  Without limiting in any way its objectives, purposes, or powers,
     this body shall also be authorized, and have the power to:
-    1.  promote and provide a medium whereby workers may act together,
+    A.  promote and provide a medium whereby workers may act together,
         collectively and cooperatively, towards the creation of
         productive and non-alienating work for the benefit of its
         members and the public;
-    2.  promote the economic welfare of its members and the public
+    B.  promote the economic welfare of its members and the public
         through the collective ownership of production, distribution,
         and administration tools;
-    3.  engage in any business or activity which shall serve the
+    C.  engage in any business or activity which shall serve the
         economic, educational, and cultural welfare of its members and
         the public;
-    4.  advance the workers’ cooperative movement as an economic system;
+    D.  advance the workers’ cooperative movement as an economic system;
         and to join, or otherwise associate itself with other
         cooperative societies locally and around the world for the
-        purpose of mutual aid and the creation of a cooperative society;
+        purpose of mutual aid and the creation of a cooperative society.
 
-Definitions
-===========
-
-1.  Red Emma’s LLC, hereafter “Red Emma’s”: the legal organization registered as a limited liability company in Maryland.
-2.  Collective: the group of people who have become members of Red Emma’s.
-3.  Non-member employee: someone who works for Red Emma’s, but is not a member of Red Emma’s.
-4.  Collective member: A member of Red Emma's.
-5.  Prospective collective member: A non-member employee whom the Collective is considering as a potential future collective member. 
-6.  Attendance: physical presence at a meeting, or participation via phone or other audio/video/live-chat channel.
-
-Bylaws Generally
-================
-
-1. The bylaws stated here shall also serve as the official operating agreement for Red Emma’s.
+### Section 6: Bylaws Generally
+1. The bylaws stated here shall also serve as the official operating agreement for Project Ambri.
 2. Amendments to the bylaws shall be made in accordance with the procedure for major decisions stipulated in the Meetings Section.
 
-Assets of Red Emma’s
-====================
 
-1. All assets of Red Emma’s will be legally held by Red Emma’s. All debts of Red Emma’s will be legally in the name of the Red Emma’s. 
-2. Individual members of the Red Emma’s shall not be held liable as individuals for those obligations of Red Emma’s, whether arising in contract, tort or otherwise solely by reason of being a member of Red Emma’s.
-3. If the Collective should choose to dissolve Red Emma’s, the assets of Red Emma’s will first be used to pay off any outstanding debts incurred by Red Emma’s. The disposition of any remaining assets will be decided on in accordance with the procedure for major decisions stipulated in the Meetings Section.
-4. A court of competent jurisdiction shall not order the foreclosure of the economic interest of the worker-member subject to a charging order and order the sale of the economic interest of the debtor. This section shall supersede Section 4A-607(c)(3) of the Maryland Limited Liability Company Act.
+## ARTICLE II: Membership & Volunteer Structure
 
-Meetings
-========
+### Meetings
 
-1. All management decisions for Red Emma's are to be made by the
-    Collective in accordance with the decision making structure
-    outlined in this document.
-1.  The Collective will meet in a timely and regular fashion. 
+1. All management decisions for Project Ambri are to be made by the Collective in accordance with the decision making structure outlined in this document.
+2.  The Collective will meet in a timely and regular fashion. 
 3.  Members must remember that they have a responsibility to attend meetings of the Collective on a regular basis.  
-2.  Full Collective meetings take place on the first Monday of each
-    month, starting at 6:30PM.
-3.  The Collective will meet quarterly to discuss budgeting and the
-    overall financial situation of the business.
-4.  Any decision to be made that affects the bylaws, membership,
-    mission, formation and dissolution of committees, location or time
-    of regular meetings, or any other major decision must be made during
-    a meeting in which at least two-thirds of the membership is present.
-    Such decisions will be announced a week in advance. Emergency
-    meetings can be called with two thirds of the Collective present.
+4.  The quarterly meetings of the Members shall be held on the second Thursday in the months of January, April, July and October in each year, beginning with the year 2018, at 7:00 pm, to discuss budgeting and the overall financial situation of the business  in addition to any business as may come before the meeting.
+5. Members may designate any place within a ten mile radius of the City of Seattle, as the place of meeting for any quarterly.  If no designation is made, or if a special meeting is otherwise called, the place of meeting shall be the principal office of the organization in the City of Seattle, Washington.
+6. Written, printed, electronic notice stating the place, day, hour, and purpose or purposes of the meeting for which the meeting is called, shall be delivered not less than 14 days before the date of the meeting, either personally or by mail, by or at the direction of the president, or the secretary, or the officer or persons calling the meeting, to each member of record entitled to vote at such meeting. If mailed, such notice shall be deemed to be delivered, when deposited in the United States mail, addressed to the member at his address as it appears on the membership application, with postage thereon prepaid.
+7.	Quorum: No less than fifteen of the outstanding Members of the organization entitled to vote, represented in person or by proxy, shall constitute a quorum at a meeting of Members. If less than a quorum of the members entitled to vote is represented at a meeting, a majority of the members so represented may adjourn the meeting from time to time without further notice. At such adjourned meeting at which a quorum is present or represented, no business may be decided upon that might have been transacted at the meeting as originally notified. The Members present at a duly organized meeting may continue to transact business until adjournment, notwithstanding the withdrawal of enough Members to leave less than a quorum. (See Amendment #3)
+8. Special meetings of the Members, for any purpose or purposes, unless otherwise prescribed by statute, may be called by no less than five of all the outstanding members of the organization entitled to vote at the meeting and must be signed and delivered to the Executive Director at least 24 hours prior to that meeting.  
+9. A special meeting as called by the members may be located within or without the State of Washington as chosen by the members
+10. To constitute a decision among the members, a 2/3 vote must be accomplished in which a Quorum is present.
+11. At all meetings of Members, a Member may vote by proxy executed in writing by the Member or by his duly authorized attorney in fact. Such proxy shall be filed with the secretary of the organization before or at the time of the meeting. No proxy shall be valid after 30 days from the date of its execution unless otherwise provided in the proxy.
+
+7. Any decision to be made that affects the bylaws, membership, mission, formation and dissolution of committees, location or time of regular meetings, or any other major decision must be made during a meeting in which at least two-thirds of the membership is present. Such decisions will be announced a week in advance. Emergency meetings can be called with two thirds of the Collective present.
 5.  All other decisions must be made at a meeting where at least one
     half of the collective membership is in attendance.
 6.  In the event that the meeting does not yield a consensus on an
@@ -108,9 +99,8 @@ Meetings
         exempt themselves from quorum or strongly request that the
         collective postpone the decision until the member can
         participate.
-
-Collective Membership
-=====================
+		
+### Membership
 
 1.  Any person is eligible to become a member of this Collective,
     provided the following conditions are met:
@@ -181,8 +171,7 @@ Collective Membership
     part of said individuals. Such a decision falls under the procedure
     for “major decisions” in section 2.2.
 
-Member’s capital
-================
+### Member’s capital
 
 1.  As business capital, the members acknowledge that the money in
     their capital account is at risk; in particular, other creditors
@@ -299,8 +288,9 @@ Member’s capital
         purposes to LLC members in proportion to the share of the total
         capital accounts held by the member.
 
-Wages
-=====
+## ARTICLE III: Paid employees
+
+### Wages
 
 1.  The Red Emma’s minimum wage is $11/hr.
     “Base wages” will be defined as the Red Emma’s “minimum” wage
@@ -335,8 +325,7 @@ Wages
     wages retained in this way remain in the member’s capital account
     for any period longer than one year.
 
-Hiring
-======
+### Hiring
 
 1.  Hiring takes place either:
     1.  When a department cannot fill allocated hours from within the
@@ -389,8 +378,7 @@ Hiring
         collective do not preclude termination for gross incompetence or
         malicious behavior.
 
-Firing
-======
+### Firing
 
 1.  Department- vs. Collective-level Firing
     1.  Firing may be initiated at the department level or at the
@@ -462,8 +450,7 @@ Firing
         related to keys, passwords, and the disbursement of shares will
         be determined by the collective on a case-by-case basis.
 
-Employees who are not collective members
-========================================
+### Employees who are not collective members
 
 1.  As necessary, departments may decide to hire workers who do not
     intend to become members of the collective, pursuant to the approval
@@ -486,8 +473,18 @@ Employees who are not collective members
     collective.
 
 
-Departments
-===========
+---------------------------------------------------------------------------------------------------------
+### Assets of the Ambrielan Foundation
+
+1. All assets of Red Emma’s will be legally held by Red Emma’s. All debts of Red Emma’s will be legally in the name of the Red Emma’s. 
+2. Individual members of the Red Emma’s shall not be held liable as individuals for those obligations of Red Emma’s, whether arising in contract, tort or otherwise solely by reason of being a member of Red Emma’s.
+3. If the Collective should choose to dissolve Red Emma’s, the assets of Red Emma’s will first be used to pay off any outstanding debts incurred by Red Emma’s. The disposition of any remaining assets will be decided on in accordance with the procedure for major decisions stipulated in the Meetings Section.
+4. A court of competent jurisdiction shall not order the foreclosure of the economic interest of the worker-member subject to a charging order and order the sale of the economic interest of the debtor. This section shall supersede Section 4A-607(c)(3) of the Maryland Limited Liability Company Act.
+
+
+
+
+### Departments
 
 1.  The day-to-day work of the collective shall be carried out by the
     following departments:
@@ -501,8 +498,7 @@ Departments
 2.  Departments will meet regularly, and will be responsible for
     assigning tasks to their members.
 
-Grievance Procedure
-===================
+### Grievance Procedure
 
 1.  Collective members and prospective collective members can present
     grievances against individuals or the Collective as a whole to the
