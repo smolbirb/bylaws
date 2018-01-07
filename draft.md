@@ -17,12 +17,14 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 6.  Attendance: physical presence at a meeting, or participation via phone or other audio/video/live-chat channel.
 
 ### Section 4: Core Values
-1. Resisting gentrification
-2. Providing a safe space for Queer/trans, people of color, immigrants, and other marginalized groups
-3. feminism/ anarchism
-4. collective liberation
-5. collective empowerment
-6. embracing change
+	* Resisting gentrification
+	* Providing a safe space for Queer/trans, indigenous people, people of color, immigrants, and other marginalized groups
+	* feminism/ anarchism
+	* collective liberation
+	* collective empowerment
+	* engaging with change
+	* transparency/ sharing information
+
 The AF Promise to the community is that each action taken by Project Ambri, through programs or administration, either by a paid staff person, member, or volunteer, will strive to be in full alignment with the AF purpose and core values.
 
 ### Section 5: Functions and Objectives
