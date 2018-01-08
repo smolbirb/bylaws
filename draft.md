@@ -18,12 +18,15 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 
 ### Section 4: Core Values
 	* Resisting gentrification
-	* Providing a safe space for Queer/trans, indigenous people, people of color, immigrants, and other marginalized groups
-	* feminism/ anarchism
+	* Providing a safe space for indigenous people, people of color, immigrants, queer/trans people, and other marginalized 
+	groups
+	* material feminism / anarchism
 	* collective liberation
 	* collective empowerment
-	* engaging with change
-	* transparency/ sharing information
+	* engaging with change (be more specific??)
+	* transparency / sharing information
+	* mutual aid
+	* decolonization
 
 The AF Promise to the community is that each action taken by Project Ambri, through programs or administration, either by a paid staff person, member, or volunteer, will strive to be in full alignment with the AF purpose and core values.
 
@@ -109,7 +112,7 @@ The AF Promise to the community is that each action taken by Project Ambri, thro
 2.  Collective Membership is voluntary, and is based on approval by the
     existing Collective. Prospective members must agree to work within
     the existing by-laws of the Collective.
-3.  All Red Emma’s Collective documents, meetings, and meeting notes,
+3.  All Project Ambri documents, meetings, and meeting notes,
     and other operating agreements are open to scrutiny by any
     Collective member.
 5.  The prospective member must fulfill the following requirements
